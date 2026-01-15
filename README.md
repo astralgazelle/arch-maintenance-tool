@@ -19,7 +19,7 @@ A Bash script designed to automate routine system maintenance and cleanup tasks 
 * **System logs**: Vacuums `systemd` journal logs to a limit of 50MB.
 * **Thumbnails**: Clears the user's thumbnail cache (`~/.cache/thumbnails`).
 
-## Instruction:
+## Instruction
 
 1.  **Download and make the script executable:**
     ```bash
