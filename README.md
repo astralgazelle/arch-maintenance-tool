@@ -2,7 +2,7 @@
 
 A Bash script designed to automate routine system maintenance and cleanup tasks for Arch Linux. It handles package caches, system logs, orphan packages, and user thumbnails safely and interactively.
 
-<img style="width: 100%;" alt="screenshot" src="https://github.com/user-attachments/assets/1ca8cf0a-f31c-4232-9ac2-63c00c395384" />
+<img style="width: 100%;" alt="screenshot" src="https://github.com/user-attachments/assets/e175cd61-57b6-4095-86c1-648de6547a2f" />
 
 ## Features
 
